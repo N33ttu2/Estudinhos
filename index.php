@@ -10,6 +10,7 @@
 </head>
 <body>
     <h1>A Primeira das Chaves Site</h1>
+    <input type="image" src="C:\Users\jhona\Downloads\Estudinhos\Estudinhos-1\DALL·E 2025-01-24 21.59.21 - A supernatural key with an intricate, otherworldly design, glowing faintly, resting on a rugged stone. Beyond the stone, the exit of a cave reveals a .webp" alt="">
     <h2>Do que se Trata:</h2>
     <p>Kaio, um jovem de 18 anos, vê sua vida virar de cabeça para baixo ao testemunhar o assassinato de uma criatura monstruosa nas mãos de dois desconhecidos enigmáticos. Esse evento revela a verdade que esteve escondida durante toda a sua vida: ele não é humano e pertence a um mundo oculto, repleto de segredos e perigos.  
 
